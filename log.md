@@ -30,10 +30,14 @@
 
 **Link to work:** check my Java mooc repo"
 
-### Day 5:  18, 2019 
-January
+### Day 5: January 19, 2019 
+
 **Today's Progress & Thoughts**: Continued working on Mooc ex. 40, still don't pass all tests even though output looks correct. Need to investigate further. Also continued reading SCIP, will focus on that more in the future. Doing the reading in addition to watching Brian Harvey's great lectures about SCIP (https://archive.org/details/ucberkeley-webcast-PL3E89002AA9B9879E?sort=titleSorter)
 
 **Link to work:** check my Java mooc repo"
 
+### Day 6: January 20, 2019 
 
+**Today's Progress & Thoughts**: Still stuck on ex. 40, focused on reading SCIP and doing corresponding exercises today.
+
+**Link to work:** will upload Scheme/Lisp exercises in my SCIP repo.
